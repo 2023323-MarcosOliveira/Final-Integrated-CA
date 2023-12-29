@@ -14,15 +14,11 @@ Student Name: `Marcos Vinicius de Oliveira`
 Student Number: `2023323`
 
 ## Requirements
-- [ ] The Jupyter Notebook File named `Marcos_Oliveira_AI_DV_ICA.ipynb`
-- [ ] CCT Assessment Cover Page with Word Document detailed, named `Marcos Oliveira_AI_DV_ICA.docx`
-- [ ] Files sent seperately, NOT zipped
-- [ ] References in HARVARD Style
+- [x] The Jupyter Notebook File named `Marcos_Oliveira_AI_DV_ICA.ipynb`
+- [x] CCT Assessment Cover Page with Word Document detailed, named `Marcos Oliveira_AI_DV_ICA.docx`
+- [x] References in HARVARD Style
 - [ ] Minimum of 10 commits
-
-#### Optional Requirements:
-- [ ] Tell what is happening and why it is happening 
-- [ ] Citation in text
+- [ ] Files sent seperately, NOT zipped
 
 ## References
 Refereces goes here...
