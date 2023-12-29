@@ -13,6 +13,19 @@ Student Name: `Marcos Vinicius de Oliveira`
 
 Student Number: `2023323`
 
+## Artificial Inteligence Tasks
+- [x] Using any CSP (Constraint Satisfaction Problem) framework (using variables, value domains, and constraints), discover if the above problems can be solved and if so detail who would be in hired.
+- [x] Discuss in detail how using Constraint Satisfaction finds an answer or finds no solution to the problems in Tasks for Artificial Intelligence part 1. How does this differ from standard algorithmic solutions? 
+- [x] These problems be solved using several other algorithm’s we have studied in the module. Choose one of these algorithms and discuss your answer in detail including a proof of your hypothesis in code
+- [x] Support your arguments with citations/references in Harvard Style
+
+## Data Visualisation Tasks
+- [x] Use appropriate visualisations to help communicate the CSP scenario and the corresponding solutions, if any, to the appropriate stakeholders.
+- [x] Create interactive visualisation(s) to allow a user to explore alternate constraint scenarios
+- [ ] Create GUI(s) to allow a user to explore alternate constraint scenarios
+- [ ] Include in your report a section for a theoretical AI “team” you are part of, explaining the visualisation processes and rationalising your visualisation decisions (eg chart choice, colour, layout etc).
+
+
 ## Requirements
 - [x] The Jupyter Notebook File named `Marcos_Oliveira_AI_DV_ICA.ipynb`
 - [x] CCT Assessment Cover Page with Word Document detailed, named `Marcos Oliveira_AI_DV_ICA.docx`
