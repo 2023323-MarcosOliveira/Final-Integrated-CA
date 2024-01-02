@@ -22,7 +22,7 @@ Student Number: `2023323`
 ## Data Visualisation Tasks
 - [x] Use appropriate visualisations to help communicate the CSP scenario and the corresponding solutions, if any, to the appropriate stakeholders.
 - [x] Create interactive visualisation(s) to allow a user to explore alternate constraint scenarios
-- [ ] Create GUI(s) to allow a user to explore alternate constraint scenarios
+- [x] Create GUI(s) to allow a user to explore alternate constraint scenarios
 - [ ] Include in your report a section for a theoretical AI “team” you are part of, explaining the visualisation processes and rationalising your visualisation decisions (eg chart choice, colour, layout etc).
 
 
@@ -30,7 +30,7 @@ Student Number: `2023323`
 - [x] The Jupyter Notebook File named `Marcos_Oliveira_AI_DV_ICA.ipynb`
 - [x] CCT Assessment Cover Page with Word Document detailed, named `Marcos Oliveira_AI_DV_ICA.docx`
 - [x] References in HARVARD Style
-- [ ] Minimum of 10 commits
+- [x] Minimum of 10 commits
 - [ ] Files sent seperately, NOT zipped
 
 ## References
